@@ -24,7 +24,7 @@ This project implements a **real-time weapon detection system** using the **YOLO
 
 ### 1️⃣ Clone the Repository  
 bash
-git clone https://github.com/Kamlesm001/Weapan-Detection-in-Real-Time-Using-Yolov8-Model/tree/main
+git https://github.com/Kamlesm001/Weapan-Detection-in-Real-Time-Using-Yolov8-Model.git
 cd Weapon-Detection-YOLOv8
 
 ## 2️⃣ Install Dependencies
