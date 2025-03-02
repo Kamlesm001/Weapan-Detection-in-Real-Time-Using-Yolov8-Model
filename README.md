@@ -40,3 +40,10 @@ Accuracy: 97%
 FPS: 30+ (on GPU)
 Classes Detected: Guns, Knives, Rifles, Scissors, and other suspicious objects.
 
+📖 Research Paper
+For detailed methodology, dataset information, and performance evaluation, refer to the full research paper:
+
+[Weapon Detection in real time using yolov8 paper.pdf](https://github.com/user-attachments/files/19042739/Weapon.Detection.in.real.time.using.yolov8.paper.pdf)
+
+
+
